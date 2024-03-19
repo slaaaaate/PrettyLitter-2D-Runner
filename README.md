@@ -1,9 +1,5 @@
 Welcome to A Purrfectly Lazy Adventure, a 2D side scrolling runner.
 
-                            ╱|、
-                          (˚ˎ 。7  
-                          |、˜〵          
-                          じしˍ,)ノ
 
 Join our hero cat as they avoid cat trees and physical activities in a quest for pure laziness and sun-soaked naps. Will they ever find the sunny spot? Who knows ¯_(ツ)_/¯
 
